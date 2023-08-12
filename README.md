@@ -1,4 +1,4 @@
-# Video Question Answering solution for JAS AI Hackathon
+# Video Question Answering Solution (NTO 2023, JAS AI Hackathon)
 
 ### Задача
 > Анализ коротких видеофрагментов и представленные к ним вопросы по содержанию и запечатленным  событиям и/или действиям, чтобы сгенерировать наиболее подходящие ответы на русском языке.
